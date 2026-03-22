@@ -10,3 +10,7 @@ Personal development log — notes, findings, and ongoing work.
 - Wrote notes on upcoming feature design
 - Drafted initial implementation plan for v2
 - Verified API endpoint response schema
+
+## 2026-03-23
+- Noted known limitation in docs
+- Updated CI cache strategy
